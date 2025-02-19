@@ -1,4 +1,5 @@
 # Sunrise Events
+<h5>Team - Bugging Bad</h5>
 
 Welcome to Sunrise Events, where every celebration becomes a masterpiece. This project is a fully-featured event management website built with React, TypeScript, Tailwind CSS, and Node.js. It includes functionalities for booking consultations, managing services, galleries, and settings, and provides an admin dashboard for managing the website content.
 
@@ -14,6 +15,7 @@ Welcome to Sunrise Events, where every celebration becomes a masterpiece. This p
 - [Database Setup](#database-setup)
 - [API Endpoints](#api-endpoints)
 - [Future Enhancements](#future-enhancements)
+- [Contributers](#contributors)
 
 ## Features
 
@@ -230,6 +232,9 @@ CREATE TABLE consultations (
 - **<a href="https://www.linkedin.com/in/AnujSule/">Anuj Sule</a>** - Developer
 - **<a href="https://www.linkedin.com/in/hritesh-bansal-42bb48314/">Hritesh Bansal</a>** - Developer
 - **<a href="https://www.linkedin.com/in/yuvraj-srivastava-202343308/">Yuvraj Srivastava</a>** - Developer
+
+  <br>
+  <br>
 
 ### 🔥 Built with Express.js, PostgreSQL, React, and Tailwind CSS
 
