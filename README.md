@@ -64,7 +64,7 @@ Welcome to Sunrise Events, where every celebration becomes a masterpiece. This p
 - Contact Page
   ![Sunrise Events](screenshots/contact.png)
 - AdminLogin Page
-  ![Sunrise Events](screenshots/adminLogin.png)
+  ![Sunrise Events](screenshots/AdminLogin.png)
 - AdminDashboard Page
   ![Sunrise Events](screenshots/AdminDashboard.png)
 
