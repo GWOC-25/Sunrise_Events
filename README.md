@@ -153,8 +153,8 @@ vite.config.ts
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/car-price-predictor.git
-   cd project
+   git clone https://github.com/GWOC-25/Sunrise_Events.git
+   cd GWOC-25/Sunrise_Events
    ```
 2. Install dependencies:
    ```bash
